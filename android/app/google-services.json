@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159510327590",
+    "project_id": "grupo-salinas-red-unica-1a5d0",
+    "storage_bucket": "grupo-salinas-red-unica-1a5d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159510327590:android:7eef29e79efe58aca111e7",
+        "android_client_info": {
+          "package_name": "mx.opit.grupo.salinas.red.unica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159510327590-u06i1d0juvvqqkh08kmu28f1r50j763k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-BNzEfzYoPIAvBkOCEAYMFj21CGS1sqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159510327590-u06i1d0juvvqqkh08kmu28f1r50j763k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

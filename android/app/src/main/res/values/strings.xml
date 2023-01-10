@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Demo Red Unica</string>
+    <string name="title_activity_main">Demo Red Unica</string>
+    <string name="package_name">mx.opit.grupo.salinas.red.unica</string>
+    <string name="custom_url_scheme">mx.opit.grupo.salinas.red.unica</string>
+</resources>
